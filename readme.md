@@ -5,6 +5,10 @@ A web app for schools to manage equipment (sensors, tools, tech) and archive pro
 
 **presentation (live demo)**: [Coming Soon]
 
+
+
+
+
 ## Why MaterialFlow?
 - **Lost a Raspberry Pi?** Tag it, track it, and see which projects used it last.
 - **Graduating students?** Preserve their work—code, docs, and photos—linked to their projects.
